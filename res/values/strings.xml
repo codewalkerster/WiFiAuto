@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WiFiAuto</string>
+    <string name="explanation">Wi-Fi will turns on automatically when charging.</string>
+</resources>
